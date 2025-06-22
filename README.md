@@ -12,7 +12,7 @@ Hey there! I’m Prachi — a curious soul who loves turning data into stories a
 I’m happiest when I’m knee-deep in code, making algorithms smarter (or at least trying to), and dreaming up ways to make tech more helpful.
 
 - 🧩 **My Superpowers:** Python, NumPy, Pandas, Machine Learning  
-- ☕ **Also Speak:** SQL, Java  
+- ☕ **Also know:** SQL, Java  
 - 🖼️ **Learning:** Computer Vision, LLMs (Large Language Models), and beginner-friendly Docker magic 🐳  
 - 🎨 **Front-end Sprinkles:** HTML, CSS, Bootstrap  
 - 🌍 **Version Control:** Git wizardry  
