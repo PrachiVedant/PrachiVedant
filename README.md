@@ -12,7 +12,7 @@ Hey there! I’m Prachi — a curious soul who loves turning data into stories a
 I’m happiest when I’m knee-deep in code, making algorithms smarter (or at least trying to), and dreaming up ways to make tech more helpful.
 
 - 🧩 **My Superpowers:** Python, NumPy, Pandas, Machine Learning  
-- ☕ **Also know:** SQL, Java  
+- ☕ **Also know:** SQL, Java, JavaScript  
 - 🖼️ **Learning:** Computer Vision, LLMs (Large Language Models), and beginner-friendly Docker magic 🐳  
 - 🎨 **Front-end Sprinkles:** HTML, CSS, Bootstrap  
 - 🌍 **Version Control:** Git wizardry  
@@ -44,11 +44,15 @@ When I’m not coding, you’ll find me:
 ![LLM](https://img.shields.io/badge/LLM-BB86FC?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -61,7 +65,7 @@ When I’m not coding, you’ll find me:
 
 <p align="center">
   <i>
-    "The beautiful thing about learning is that nobody can take it away from you." – B.B. King
+    "Success is not the absence of failure; it's the persistence through failure. Every bug is just another plot twist in your story—keep going!"
   </i>
 </p>
 <p align="center">
