@@ -1,73 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8E8EE&height=130&section=header&text=Prachi%20Vedant&fontSize=40&fontColor=7A5980" width="100%" alt="header"/>
+<h1 align="center">Hi 👋, I'm PRACHI BHAVESH VEDANT</h1>
+<h3 align="center">A passionate Data Science developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7A5980&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Prachi+Vedant!;Machine+Learning+Enthusiast;Data+Wrangler+%7C+Problem+Solver;Python+%E2%9D%A4%EF%B8%8F+Research+%E2%9C%A8+Personal+Projects+%F0%9F%92%BB" alt="Typing SVG" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachivedant" alt="prachivedant" /></a> </p>
+
+- 🔭 I’m currently working on **Personal voice-assistant**
+
+- 🌱 I’m currently learning **Langchain**
+
+- 🤝 I’m looking for help with **anything related to data science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31](https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31)
+
+- 📫 How to reach me **prachivedant2005@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31](https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31)
+
+- ⚡ Fun fact **I just sleep,eat,gym,code repeat**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi vedant" height="30" width="40" /></a>
+<a href="https://kaggle.com/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prachi vedant" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prachi vedant" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 🌱 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachivedant&show_icons=true&locale=en&layout=compact" alt="prachivedant" /></p>
 
-Hey there! I’m Prachi — a curious soul who loves turning data into stories and ideas into real-world solutions.  
-I’m happiest when I’m knee-deep in code, making algorithms smarter (or at least trying to), and dreaming up ways to make tech more helpful.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachivedant&show_icons=true&locale=en" alt="prachivedant" /></p>
 
-- 🧩 **My Superpowers:** Python, NumPy, Pandas, Machine Learning  
-- ☕ **Also know:** SQL, Java, JavaScript  
-- 🖼️ **Learning:** Computer Vision, LLMs (Large Language Models), and beginner-friendly Docker magic 🐳  
-- 🎨 **Front-end Sprinkles:** HTML, CSS, Bootstrap  
-- 🌍 **Version Control:** Git wizardry  
-- 💡 **Favorite Project:** Delivery Zone Optimization (boosted efficiency by 15%! 🚚💨)  
-- 🔭 **Currently learning:** All things ML, CV, and how to convince my computer to learn with me  
-- 📝 **Next Adventure:** Cooking up my own research project—stay tuned!
-
----
-
-### ✨ Personal Touch
-
-I believe in learning through doing, failing, and laughing at my own bugs (seriously, some of them are hilarious).  
-Whether it’s optimizing delivery routes, experimenting with a new neural network, or figuring out why my SQL query won't work, I love the thrill of discovery and the joy of sharing what I learn.
-
-When I’m not coding, you’ll find me:
-- Journaling ideas for the *next* big project
-- Reading about AI breakthroughs
-- Or just vibing to lo-fi beats while plotting my next algorithmic masterpiece
-
----
-
-### 🛠️ Tech Toolbox
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6A1B9A?style=for-the-badge&logo=openCV&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-BB86FC?style=for-the-badge&logo=OpenAI&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-### 💬 Let’s Connect!
-
-- 🔗 [LinkedIn: Prachi Vedant](https://www.linkedin.com/in/prachi-vedant-324020281/)
-- ✉️ Open to collaborations, research chats, or just geeking out over data!
-
----
-
-<p align="center">
-  <i>
-    "Success is not the absence of failure; it's the persistence through failure. Every bug is just another plot twist in your story—keep going!"
-  </i>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F8E8EE&height=90&section=footer&fontColor=7A5980" width="100%" alt="footer"/>
-</p>
