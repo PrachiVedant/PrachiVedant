@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachivedant" alt="prachivedant" /></a> </p>
 
-- 🔭 I’m currently working on **Personal voice-assistant**
+- 🔭 I’m currently working on **Workflow Optimizer**
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **GENAI**
 
 - 🤝 I’m looking for help with **anything related to data science**
 
@@ -13,13 +13,11 @@
 
 - 📫 How to reach me **prachivedant2005@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31](https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31)
-
-- ⚡ Fun fact **I just sleep,eat,gym,code repeat**
+- ⚡ Fun fact **I am a Ml Intern at EventHorizonLabs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi vedant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prachi vedant" target="blank"><img align="center" src="https://www.linkedin.com/in/prachi-vedant-324020281/" alt="prachi vedant" height="30" width="40" /></a>
 <a href="https://kaggle.com/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prachi vedant" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prachi vedant" height="30" width="40" /></a>
 </p>
