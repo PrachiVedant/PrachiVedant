@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **anything related to data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31](https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31)
+- 👨‍💻 All of my projects are available at [https://github.com/prachivedant](https://github.com/PrachiVedant?tab=overview&from=2025-08-01&to=2025-08-31)
 
 - 📫 How to reach me **prachivedant2005@gmail.com**
 
