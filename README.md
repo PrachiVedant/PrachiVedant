@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **prachivedant2005@gmail.com**
 
-- ⚡ Fun fact **I am a Ml Intern at EventHorizonLabs.**
+- ⚡ Fun fact **I am working as a Ml Intern at EventHorizonLabs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prachi vedant" target="blank"><img align="center" src="https://www.linkedin.com/in/prachi-vedant-324020281/" alt="prachi vedant" height="30" width="40" /></a>
-<a href="https://kaggle.com/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prachi vedant" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prachi vedant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prachi vedant" height="30" width="40" /></a>
+
+<a href="https://www.geeksforgeeks.org/user/prachivedhzi6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prachi vedant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
